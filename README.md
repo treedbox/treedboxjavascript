@@ -1,2 +1,87 @@
-# treedboxjavascript
-VS Code Javascript extension
+# Treedbox Javascript
+
+How fast do you want to be to transform an idea into code?
+
+## VS Code Javascript extension
+
+> It's not a extension that forces you to remember some "custom prefix" to call the the snippets. **Treedbox Javascript** was designed to serve snippets in the most logical way, delivering the most commons code structures and combinations to make your combo code speedy and powerful.
+
+Javascript snippets [Visual Studio Code](https://code.visualstudio.com/) Extension for fast development.
+
+By: [Jonimar Marques Policarpo](https://www.linkedin.com/in/treedbox/ "LinkEdin") at [Treedbox](http://treedbox.com)
+
+## Pages
+
+![Treedbox](icon.png "Treedbox.com")
+
+GitHub: https://github.com/treedbox/treedboxjavascript
+
+VS Code extension: https://marketplace.visualstudio.com/items?itemName=treedbox.treedbox-javascript
+
+## Features
+
+Version 1.0.0: **501** javascript snippets!
+
+- Snippets for `fetchGET`, `fetchPOST`, `fetchPUT`, `fetchDELETE`;
+- Include: URL interface https://developer.mozilla.org/docs/Web/API/URL
+  `URLcreateObjectURL`, `URLrevokeObjectURL`;
+- Snippets without semicolons; [YouTube: Semicolons cannot save you! - FunFunFunction #9](https://www.youtube.com/watch?v=Qlr-FGbhKaI), [Article: Semicolons in JavaScript: A preference](https://blog.kentcdodds.com/semicolons-in-javascript-a-preference-dd8fc8b80895);
+- Fixed: typo with `parseInt`.
+
+###### All Math properties and methods
+
+Including an extra complete functions as `MathRandomCompleteFunc` or `randomCompleteFunc`:
+
+```
+const random = (min,max) => Math.floor(Math.random() * (max - min + 1)) + min
+```
+
+and many others **Extras** that you will find out when you need it :)
+
+## How to use
+
+#### Example:
+
+in a `.js` file or in a `.html` file, between the HTML tag `<script></script>`,
+type: `fetchblob` and press "**Tab/Enter**" to generate:
+
+```
+fetch(url)
+  .then(response => response.blob())
+  .then(data =>{
+      console.log('data:',data)
+  }).catch(error => console.log('ERROR:',error))
+```
+
+Like `fetchblob`, you have a lot of snippets to help you with `import`, `forEach`, `map`, `generator` and so on.
+
+## Release Notes
+
+### 1.0.0
+
+- **501** javascript snippets!
+- All Math properties and methods
+
+## Tested
+
+**Visual Studio Code 1.37.1**
+
+## Meta
+
+Author: [Jonimar Marques Policarpo](https://www.linkedin.com/in/treedbox/ "LinkEdin") [Frontend Developer]
+
+LinkEdin: [Jonimar Marques Policarpo | Treedbox](https://www.linkedin.com/in/treedbox/ "LinkEdin")
+
+Twitter: [@treedbox](https://twitter.com/treedbox)
+
+E-mail: [treedbox@gmail.com](mailto:treedbox@gmail.com)
+
+WebSite: [treedbox.com](https://treedbox.com)
+
+## License
+
+[MIT](LICENSE.md) © [TreedBox](https://github.com/treedbox)
+
+### Offical Repository
+
+[https://github.com/treedbox/treedboxjavascript/](https://github.com/treedbox/treedboxjavascript/)
