@@ -26,7 +26,7 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 
 `ext install treedbox.treedboxjavascript`
 
-Or search for `treedbox` on the Extensions tab of VS Code.
+Or search for `treedbox` in the VS Code Extensions tab.
 
 ## Pages
 
@@ -74,6 +74,10 @@ fetch(url)
 Like `fetchblob`, you have a lot of snippets to help you with `import`, `forEach`, `map`, `generator` and so on.
 
 ## Release Notes
+
+### [1.0.3]
+
+- Fix typo.
 
 ### [1.0.2]
 
