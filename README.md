@@ -75,6 +75,10 @@ Like `fetchblob`, you have a lot of snippets to help you with `import`, `forEach
 
 ## Release Notes
 
+### [1.0.5]
+
+- Fixing mimeTypes.
+
 ### [1.0.4]
 
 - Improving description.

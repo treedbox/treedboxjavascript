@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.5]
+
+- Fixing mimeTypes.
+
 ## [1.0.4]
 
 - Improving description.
