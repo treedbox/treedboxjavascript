@@ -1,7 +1,11 @@
 # Change Log
 
-All notable changes to the "treedboxjavascript" extension will be documented in this file.
+## [1.0.1]
+
+- fix README links
 
 ## [1.0.0]
 
-- Initial release for Treedbox javaScript
+- **501** javascript snippets!
+- All Math properties and methods
+

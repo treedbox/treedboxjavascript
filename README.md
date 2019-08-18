@@ -16,7 +16,7 @@ By: [Jonimar Marques Policarpo](https://www.linkedin.com/in/treedbox/ "LinkEdin"
 
 GitHub: https://github.com/treedbox/treedboxjavascript
 
-VS Code extension: https://marketplace.visualstudio.com/items?itemName=treedbox.treedbox-javascript
+VS Code extension: https://marketplace.visualstudio.com/items?itemName=treedbox.treedboxjavascript
 
 ## Features
 
@@ -57,7 +57,11 @@ Like `fetchblob`, you have a lot of snippets to help you with `import`, `forEach
 
 ## Release Notes
 
-### 1.0.0
+### [1.0.1]
+
+- fix README links
+
+### [1.0.0]
 
 - **501** javascript snippets!
 - All Math properties and methods
