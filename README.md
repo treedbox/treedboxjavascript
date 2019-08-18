@@ -4,7 +4,7 @@ How fast do you want to be to transform an idea into code?
 
 ## VS Code Javascript extension
 
-> It's not a extension that forces you to remember some "custom prefix" to call the the snippets. **Treedbox Javascript** was designed to serve snippets in the most logical way, delivering the most commons code structures and combinations to make your combo code speedy and powerful.
+> It's not an extension that forces you to remember some "custom prefix" to call the snippets. **Treedbox Javascript** was designed to serve snippets in the most logical way, delivering the most commons code structures and combinations to make your combo's code speedy and powerful.
 
 Javascript snippets [Visual Studio Code](https://code.visualstudio.com/) Extension for fast development.
 
@@ -74,6 +74,10 @@ fetch(url)
 Like `fetchblob`, you have a lot of snippets to help you with `import`, `forEach`, `map`, `generator` and so on.
 
 ## Release Notes
+
+### [1.0.4]
+
+- Improving description.
 
 ### [1.0.3]
 
