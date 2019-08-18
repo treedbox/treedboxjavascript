@@ -10,6 +10,24 @@ Javascript snippets [Visual Studio Code](https://code.visualstudio.com/) Extensi
 
 By: [Jonimar Marques Policarpo](https://www.linkedin.com/in/treedbox/ "LinkEdin") at [Treedbox](http://treedbox.com)
 
+## Screenshots:
+
+Screenshot 1: Using snippet for fetch DELETE:
+
+![Screenshot 1](assets/screenshot-1.png "Screenshot 1: Using snippet for fetch DELETE")
+
+Screenshot 2: Accessing all fetch snippets:
+
+![Screenshot 2](assets/screenshot-2.png "Screenshot 2: Accessing all fetch snippets")
+
+## Install
+
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
+
+`ext install treedbox.treedboxjavascript`
+
+Or search for `treedbox` on the Extensions tab of VS Code.
+
 ## Pages
 
 ![Treedbox](icon.png "Treedbox.com")
@@ -57,14 +75,19 @@ Like `fetchblob`, you have a lot of snippets to help you with `import`, `forEach
 
 ## Release Notes
 
+### [1.0.2]
+
+- Optimizing fetch snippets;
+- Add images and more info to README.
+
 ### [1.0.1]
 
-- fix README links
+- fix README links.
 
 ### [1.0.0]
 
-- **501** javascript snippets!
-- All Math properties and methods
+- **501** javascript snippets!;
+- All Math properties and methods.
 
 ## Tested
 
