@@ -75,6 +75,12 @@ Like `fetchblob`, you have a lot of snippets to help you with `import`, `forEach
 
 ## Release Notes
 
+## [1.0.6]
+
+- fix .js comment snippet.
+
+- starting .ts snippets.
+
 ### [1.0.5]
 
 - Fixing mimeTypes.

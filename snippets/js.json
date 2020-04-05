@@ -2,7 +2,7 @@
     "console.log with Commmentary": {
       "description": "console.log with Commmentary",
       "prefix": "logC",
-      "body": ["console.log(`$1: `,$1)$0"]
+      "body": ["console.log(\"$1:\",$1)$0"]
     },
     "console.log with Template Expression": {
       "description": "console.log with Template Expression",

@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.6]
+
+- fix .js comment snippet.
+
+- starting .ts snippets.
+
 ## [1.0.5]
 
 - Fixing mimeTypes.
